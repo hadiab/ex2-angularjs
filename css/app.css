@@ -1,0 +1,17 @@
+/* Panle */
+#panel{
+    text-align: center;
+}
+
+#panel .icon{
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+#panel h2{
+    font-weight: 400;
+}
+
+.follow{
+	margin-top: 20px;
+}
